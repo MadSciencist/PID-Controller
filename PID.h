@@ -12,7 +12,6 @@
 
 #include "math.h"
 
-void calculateSpeed(float* left, float* right);
 
 typedef struct{
   uint16_t period;              //interval between PID computations
